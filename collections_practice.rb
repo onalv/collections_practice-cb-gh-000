@@ -8,7 +8,7 @@ end
 
 def SORT_ARRAY_CHAR_COUNT
 
-end 
+end
 
 def SWAP_ELEMENTS
 
