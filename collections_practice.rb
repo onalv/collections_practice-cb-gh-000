@@ -1,15 +1,15 @@
-def sort_array_asc
+def sort_array_asc(array)
 
 end
 
-def SORT_ARRAY_DESC
+def sort_array_desc(array)
 
 end
 
-def SORT_ARRAY_CHAR_COUNT
+def sort_array_char_count(array)
 
 end
 
-def SWAP_ELEMENTS
+def swap_elements
 
 end
