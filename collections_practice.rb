@@ -40,7 +40,7 @@ end
 
 def find_a(array)
   array.select do |string|
-    string.first == "a"
+    string[0] == "a"
   end
   array
 end
