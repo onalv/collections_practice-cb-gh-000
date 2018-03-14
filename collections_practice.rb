@@ -42,5 +42,4 @@ def find_a(array)
   array.select do |string|
     string[0] == "a"
   end
-  array
 end
