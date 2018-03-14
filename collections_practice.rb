@@ -50,6 +50,6 @@ def sum_array(array)
   end
 end
 
-def add_s
-
+def add_s(array)
+  array.each_with_index.collect{|item, i| i!=1 ? item += "s"}
 end
