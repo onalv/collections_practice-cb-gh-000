@@ -1,4 +1,4 @@
-def SORT_ARRAY_ASC
+def sort_array_asc
 
 end
 
